@@ -1,0 +1,43 @@
+_repo: Prejudices-Third-Series_53474
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mencken, H. L. (Henry Louis)
+    aliases:
+    - Mencken, Henry Louis
+    - Hatteras, Owen
+    - Mencken, Henry L.
+    birthdate: 1880
+    deathdate: 1956
+    gutenberg_agent_id: '578'
+    url: http://www.gutenberg.org/2009/agents/578
+    wikipedia: http://en.wikipedia.org/wiki/H._L._Mencken
+description: ''
+gutenberg_issued: '2016-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53474'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- History and criticism'
+- !lcsh 'American essays -- 20th century'
+- !lcsh 'American literature -- History and criticism'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: 'On being an American -- Huneker: a memory -- Footnote on criticism
+  -- Das Kapital -- Ad Imaginem Dei Creavit Illum: The life of man. The anthropomorphic
+  delusion. Meditation on meditation. Man and his soul. Coda -- Star-spangled men
+  -- The poet and his art -- Five men at random: Abraham Lincoln. Paul Elmer More.
+  Madison Cawein. Frank Harris. Havelock Ellis -- The nature of liberty -- The novel
+  -- The forward-looker -- Memorial service -- Education -- Types of men: The romantic.
+  The skeptic. The believer. The worker. The physician. The scientist. The business
+  man. The king. The average man. The truth-seeker. The pacifist. The relative. The
+  friend -- The dismal science -- Matters of state: Le Contrat Social. On minorities
+  -- Reflections on the drama -- Advice to young men: To him that hath. The venerable
+  examined. Duty. Martyrs. The disabled veteran. Patriotism -- Suite Américaine: Aspiration.
+  Virtue. Eminence.'
+title: Prejudices, Third Series
+url: http://www.gutenberg.org/ebooks/53474
